@@ -4,32 +4,32 @@ class ArticlesController < ApplicationController
   end
 
   def show
-    @articles = Article.find(params[:id])
+    @article = Article.find(params[:id])
   end
 
   def new
-    @articles = Article.new
+    @article = Article.new
   end
 
   def create
-    @articles = Article.new(article_params)
+    @article = Article.new(article_params)
 
-    if @articles.save
-      redirect_to @articles
+    if @article.save
+      redirect_to @article
     else
       render :new, status: :unprocessable_entity
     end
   end
 
   def edit
-    @articles = Article.find(params[:id])
+    @article = Article.find(params[:id])
   end
 
   def update
-    @articles = Article.find(params[:id])
+    @article = Article.find(params[:id])
 
-    if @articles.update(article_params)
-      redirect_to @articles
+    if @article.update(article_params)
+      redirect_to @article
     else
       render :edit, status: :unprocessable_entity
     end
