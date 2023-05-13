@@ -1,24 +1,24 @@
-# README
+# First Ruby on Rails Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run this application is need to has the follow things.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby >= 2.7.0
 
-* System dependencies
+* Ruby on Rails >= 7.0.0
 
-* Configuration
+* Sqlite3
 
-* Database creation
+## About
 
-* Database initialization
+The project is a simple blog to post articles, comments and managed by login. It's like social media. I made these following the "Getting Started with Rails" article.
+You can see the all step to build this fantastic web application with ruby on rails in [Started on Rails](https://guides.rubyonrails.org/getting_started.html).
 
-* How to run the test suite
+## Conclusion
 
-* Services (job queues, cache servers, search engines, etc.)
+Ruby is a fantastic language with two paradigm was made that dynamic, confortable and enjoyed experience to code in that. Rails complement a language Ruby to be more perfomatic on web, revolution the mode of developer projects because it has the MVC strucured folders with possible to integrate other's framework, db's, much more!!!!
 
-* Deployment instructions
+I hope u enjoy, feel free to contact me :)
 
-* ...
+Rafael on Rails 
