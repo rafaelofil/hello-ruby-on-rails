@@ -1,8 +1,6 @@
 # First Ruby on Rails Project
 
-To run this application is need to has the follow things.
-
-Things you may want to cover:
+To run this application is need to has the follow things:
 
 * Ruby >= 2.7.0
 
