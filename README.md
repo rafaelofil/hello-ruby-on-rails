@@ -15,7 +15,7 @@ You can see the all step to build this fantastic web application with ruby on ra
 
 ## Conclusion
 
-Ruby is a fantastic language with two paradigm was made that dynamic, confortable and enjoyed experience to code in that. Rails complement a language Ruby to be more perfomatic on web, revolution the mode of developer projects because it has the MVC strucured folders with possible to integrate other's framework, db's, much more!!!!
+Ruby is a fantastic language with two paradigm was made that dynamic, confortable and enjoyed experience to code in that. Rails complement a language Ruby to be more perfomatic on web, revolution the mode of developer projects because it has the MVC strucured folders with possible to integrate another framework, db's, much more!!!!
 
 I hope u enjoy, feel free to contact me :)
 
